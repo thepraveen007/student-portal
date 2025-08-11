@@ -1,0 +1,3 @@
+Name: yadagiri praveen
+course: BCA
+college: Aditya degree college
