@@ -1,3 +1,5 @@
 Name: yadagiri praveen
 course: BCA
+suc no: 2358250259
 college: Aditya degree college
+hallticket number: 230377401234 
